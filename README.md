@@ -2,7 +2,10 @@
 Retail Sales Analysis | Python, Pandas, Matplotlib | Identified revenue trends, profit drivers, and growth opportunities through data-driven insights.
 
 DAT301_Retail_Sale_Analysis.html
+
 DAT301_Retail_Sale_Analysis.ipynb
+
+DAT301_Retail_Sale_Analysis.pdf
 
 ## Project Overview
 This project analyzes retail sales data to identify sales trends, profitability drivers, and business opportunities.
@@ -13,6 +16,7 @@ The objective of this project is to analyze retail sales performance and identif
 
   ## Featured Business Insight
   <img width="708" height="466" alt="image" src="https://github.com/user-attachments/assets/88705668-f87f-454f-84ff-6a0fdce68846" />
+  
   High discount levels correlate with reduced profits, indicating that excessive discounting can hurt margins. This insight highlights the importance of balancing promotional strategies with profitability objectives.
 
 ## Dataset
