@@ -2,6 +2,7 @@
 Retail Sales Analysis | Python, Pandas, Matplotlib | Identified revenue trends, profit drivers, and growth opportunities through data-driven insights.
 
 DAT301_Retail_Sale_Analysis.html
+DAT301_Retail_Sale_Analysis.ipynb
 
 ## Project Overview
 This project analyzes retail sales data to identify sales trends, profitability drivers, and business opportunities.
